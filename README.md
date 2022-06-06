@@ -18,6 +18,8 @@ Ce projet recense tout de même l'évolution des joueurs, ainsi indiquer la prop
 - Récupère ta clé API
 - créé un fichier `.env` en ajoutant `LOL_API_KEY=<ta clé API>` et `SUM_NAME=안드래아스`
 
-Lance avec `python3 app.py`
+Lance `python3 gen_data.py` pour récupérer de la data.
+
+Lance `python3 graph_data.py` pour générer des graphes.
 
 Cela va récupérer les 100 derniers matchs de Sardoche et générer un `sardhelp.csv`
