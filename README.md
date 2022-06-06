@@ -23,3 +23,5 @@ Lance `python3 gen_data.py` pour récupérer de la data.
 Lance `python3 graph_data.py` pour générer des graphes.
 
 Cela va récupérer les 100 derniers matchs de Sardoche et générer un `sardhelp.csv`
+
+Made with 🤫 in [Twitch Live](https://www.twitch.tv/videos/1495696626)
