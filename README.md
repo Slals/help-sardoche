@@ -6,7 +6,7 @@ Sardoche est parti en Corée et ça va mal ! Il faut l'aider à comprendre le ma
 
 [L'API de Riot](https://developer.riotgames.com) ne permet pas de récupérer les données au moment du matchmaking, par conséquent on peut pas sur cette base collecter de la donnée pertinente.
 
-Il faudrait en temps réel récupérer de la data après un matchmaking et la recensée au fil de l'eau.
+Il faudrait en temps réel récupérer de la data après un matchmaking et la recenser au fil de l'eau.
 
 ## Cependant...
 
